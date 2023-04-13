@@ -1,9 +1,8 @@
 # Certified-Space
-[Click Me](https://ayush-101.itch.io/certified-space/devlog/513427/space-game)
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-``
+- [x] Published On Itch.io 
+- [ ] V1 Released :x:
+- [x] Devlog Released
+
+- here is the link for Itch :point_right: [click me](https://ayush-101.itch.io/certified-space)
+
+
